@@ -1,5 +1,5 @@
 {
-    "name": "wanghuida/phptojs",
+    "name": "laracasts/utilities",
     "description": "Transform your PHP to JavaScript",
     "keywords": ["laravel", "javascript"],
     "license": "MIT",
